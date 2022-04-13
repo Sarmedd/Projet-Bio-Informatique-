@@ -1,0 +1,9 @@
+data
+bwa
+*.tgz
+*.fastq
+*.txt
+SNP_export.gz
+.Rproj.user
+export_slim_buster
+export
